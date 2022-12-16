@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yacine-ammi, I have an Msc in Applied Statistics
+- 👋 Hi, I’m @yacine-ammi, I have a Msc in Applied Statistics
 - 👀 I’m interested in Data Science & Machine Learning 
 - 🌱 I’m currently learning advanced topics in ML like NLP and Recommendation Systems
 - 💞️ I’m looking to collaborate on solving real world problems with ML and AI
